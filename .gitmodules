@@ -7,3 +7,6 @@
 [submodule "linux"]
 	path = linux
 	url = https://github.com/starfive-tech/linux.git
+[submodule "starfive"]
+	path = starfive
+	url = git@github.com:dtometzki/starfive.git
