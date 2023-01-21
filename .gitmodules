@@ -1,0 +1,9 @@
+[submodule "opensbi"]
+	path = opensbi
+	url = git@github.com:dtometzki/opensbi.git
+[submodule "u-boot"]
+	path = u-boot
+	url = git@github.com:dtometzki/u-boot.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/starfive-tech/linux.git
