@@ -9,6 +9,7 @@
 [submodule "starfive"]
 	path = starfive
 	url = git@github.com:dtometzki/starfive.git
+	branch = master
 [submodule "u-boot"]
 	path = u-boot
 	url = git@github.com:dtometzki/u-boot.git
